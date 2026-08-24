@@ -1,0 +1,2 @@
+01_Raw_Data/transactions_data.csv filter=lfs diff=lfs merge=lfs -text
+02_Clean_Data/transaction_analysis.csv filter=lfs diff=lfs merge=lfs -text
