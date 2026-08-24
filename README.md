@@ -172,3 +172,16 @@ The analysis supports a targeted retention strategy instead of treating all cust
 - DAX – KPI and analytical measures
 - Power Query – Data transformation
 - Data Visualization – Interactive charts, slicers, KPI cards, and tables
+
+
+## 👤 Author
+
+**Prashant Solanki**
+B.Tech Computer Science, GLA University
+[GitHub](https://github.com/Prashant963478)
+
+##Screenshot
+
+
+<img width="1345" height="742" alt="image" src="https://github.com/Prashant963478/Customer-Churn-Analysis/blob/main/Executive%20Overview.png" />
+<img width="1345" height="742" alt="image" src="https://github.com/Prashant963478/Customer-Churn-Analysis/blob/main/Churn%20Retention%20%26%20Analysis.png" />
